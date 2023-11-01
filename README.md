@@ -1,3 +1,11 @@
+注意：前置条件需安装
+npm install -g vite
+npm install -g chokidar
+npm install -g chokidar-cli
+npm install -g concurrently
+npm install -g tsx
+
+
 <div alt style="text-align: center; transform: scale(.5);">
 	<picture>
 		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tldraw/tldraw/main/assets/github-hero-dark-draw.png" />
